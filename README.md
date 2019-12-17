@@ -5,12 +5,12 @@
 
 ## Create checkboxes with the following tasks:
 
-- [x] [External Link](##External-Link)
-- [x] [Internal Link](##Internal-Link)
-- [x] [Images](##Images)
-- [x] [Emojis](##Emojis)
-- [x] [Tables](##Tables)
-- [x] [Link each of the secondary headings to the respective checkbox items.](##Link)
+- [x] [External Link](#External-Link)
+- [x] [Internal Link](#Internal-Link)
+- [x] [Images](#Images)
+- [x] [Emojis](#Emojis)
+- [x] [Tables](#Tables)
+- [x] [Link each of the secondary headings to the respective checkbox items.](#Link)
 
 Once you have completed all the tasks, tick the checkboxes.
 
