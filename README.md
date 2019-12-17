@@ -5,7 +5,7 @@
 
 ## Create checkboxes with the following tasks:
 
-- [x] External Link
+- [x] [External Link](## External Link)
 - [x] Internal Link
 - [x] Images
 - [x] Emojis
@@ -51,10 +51,10 @@ Zack | 22
 Taka | 24
 
 
-## Add an external link to the github documentation. https://help.github.com/en
+## Add an external link to the github documentation. 
 
 
-[Github documentation](https://help.github.com/en/github)
+[Github documentation](https://help.github.com/en)
 
 
 
