@@ -10,7 +10,7 @@
 - [x] [Images](#Images)
 - [x] [Emojis](#Emojis)
 - [x] [Tables](#Tables)
-- [x] [Link each of the secondary headings to the respective checkbox items.](#Link)
+- [x] [Link each](#Link-each)
 
 Once you have completed all the tasks, tick the checkboxes.
 
@@ -25,20 +25,20 @@ Once you have completed all the tasks, tick the checkboxes.
 ![animals](./dog.jpeg)
 
 
-## Add the image from your github.
+## Images
 
 
 ![animals](./ouaou.jpeg)
 
 
-## Add an emoji
+## Emojis
 
 
 :+1: :+1: :+1: :+1: 
 :octocat: :octocat: :octocat: :rocket: :rocket: :sparkles: 
 
 
-## Add a table with two headings, names and class. Populate at least two rows of the table.
+## Tables
 
 
  Name | Age |
@@ -58,7 +58,7 @@ Taka | 24
 
 
 
-## Link each of the secondary headings to the respective checkbox items.
+## Link each
 
 DONE!!!!
 
