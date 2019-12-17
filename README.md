@@ -5,7 +5,7 @@
 
 ## Create checkboxes with the following tasks:
 
-- [x] [External Link](## External Link)
+- [x] [External Link](##External Link)
 - [x] Internal Link
 - [x] Images
 - [x] Emojis
