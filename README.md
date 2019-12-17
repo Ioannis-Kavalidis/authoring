@@ -5,27 +5,24 @@
 
 ## Create checkboxes with the following tasks:
 
-- [x]External Link
-- [x]Internal Link
-- [x]Images
-- [x]Emojis
-- [x]Tables
-- [x]Link each of the secondary headings to the respective checkbox items.
+- [x] External Link
+- [x] Internal Link
+- [x] Images
+- [x] Emojis
+- [x] Tables
+- [x] Link each of the secondary headings to the respective checkbox items.
 
 Once you have completed all the tasks, tick the checkboxes.
 
+## External Link
 
-
-## Add an external link to the github documentation. https://help.github.com/en
-
-
-[twitter](https://twitter.com/)
+[Twitter](https://twitter.com/)
 
 
 ## Internal Link
 
 
-[animals](./dog.jpeg)
+![animals](./dog.jpeg)
 
 
 ## Add the image from your github.
@@ -59,11 +56,6 @@ Taka | 24
 
 [Github documentation](https://help.github.com/en/github)
 
-
-## Add the image from your github.
-
-
-![animals](./ouaou.jpeg)
 
 
 ## Link each of the secondary headings to the respective checkbox items.
